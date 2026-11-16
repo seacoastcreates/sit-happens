@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "goals": [
+    {
+      "id": "foundations",
+      "name": "Foundations & focus",
+      "description": "Name, eye contact and the basics every other skill builds on.",
+      "icon": "star.fill",
+      "skillIds": [
+        "name-response",
+        "eye-contact",
+        "hand-target",
+        "sit",
+        "down"
+      ]
+    },
+    {
+      "id": "loose-leash",
+      "name": "Loose-leash walking",
+      "description": "Walks where the leash stays relaxed.",
+      "icon": "figure.walk",
+      "skillIds": [
+        "eye-contact",
+        "loose-leash",
+        "heel",
+        "leave-it"
+      ]
+    },
+    {
+      "id": "recall",
+      "name": "Recall",
+      "description": "Coming when called, every time.",
+      "icon": "arrow.uturn.backward.circle.fill",
+      "skillIds": [
+        "name-response",
+        "hand-target",
+        "come"
+      ]
+    },
+    {
+      "id": "sit-stay",
+      "name": "Sit & stay",
+      "description": "Holding a position until released.",
+      "icon": "pause.circle.fill",
+      "skillIds": [
+        "sit",
+        "down",
+        "stay",
+        "wait-door",
+        "place"
+      ]
+    },
+    {
+      "id": "crate",
+      "name": "Crate training",
+      "description": "A crate that feels like a safe den.",
+      "icon": "house.fill",
+      "skillIds": [
+        "crate-intro",
+        "settle"
+      ]
+    },
+    {
+      "id": "potty",
+      "name": "Potty training",
+      "description": "Going in the right place.",
+      "icon": "leaf.fill",
+      "skillIds": [
+        "potty-routine"
+      ]
+    },
+    {
+      "id": "jumping",
+      "name": "Jumping on people",
+      "description": "Four paws on the floor for greetings.",
+      "icon": "hand.raised.fill",
+      "skillIds": [
+        "sit",
+        "four-on-floor",
+        "polite-greeting"
+      ]
+    },
+    {
+      "id": "leave-it",
+      "name": "Leave it",
+      "description": "Ignoring tempting things on cue.",
+      "icon": "nosign",
+      "skillIds": [
+        "leave-it",
+        "drop-it"
+      ]
+    },
+    {
+      "id": "calm",
+      "name": "Calm at home",
+      "description": "Settling down and staying relaxed.",
+      "icon": "moon.zzz.fill",
+      "skillIds": [
+        "settle",
+        "place",
+        "handling",
+        "quiet"
+      ]
+    }
+  ]
+}

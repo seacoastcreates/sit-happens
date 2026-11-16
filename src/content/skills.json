@@ -1,0 +1,1736 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "id": "name-response",
+      "name": "Name response",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Name response.",
+      "goalIds": [
+        "foundations",
+        "recall"
+      ],
+      "prerequisites": [],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Name response - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Name response - Level 1, Step 1",
+            "PLACEHOLDER: Name response - Level 1, Step 2",
+            "PLACEHOLDER: Name response - Level 1, Step 3",
+            "PLACEHOLDER: Name response - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Name response - Level 1, common mistake 1",
+            "PLACEHOLDER: Name response - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Name response - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Name response - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Name response - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Name response - Level 2, Step 1",
+            "PLACEHOLDER: Name response - Level 2, Step 2",
+            "PLACEHOLDER: Name response - Level 2, Step 3",
+            "PLACEHOLDER: Name response - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Name response - Level 2, common mistake 1",
+            "PLACEHOLDER: Name response - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Name response - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Name response - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Name response - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Name response - Level 3, Step 1",
+            "PLACEHOLDER: Name response - Level 3, Step 2",
+            "PLACEHOLDER: Name response - Level 3, Step 3",
+            "PLACEHOLDER: Name response - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Name response - Level 3, common mistake 1",
+            "PLACEHOLDER: Name response - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Name response - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Name response - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "eye-contact",
+      "name": "Eye contact",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Eye contact.",
+      "goalIds": [
+        "foundations",
+        "loose-leash"
+      ],
+      "prerequisites": [],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Eye contact - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Eye contact - Level 1, Step 1",
+            "PLACEHOLDER: Eye contact - Level 1, Step 2",
+            "PLACEHOLDER: Eye contact - Level 1, Step 3",
+            "PLACEHOLDER: Eye contact - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Eye contact - Level 1, common mistake 1",
+            "PLACEHOLDER: Eye contact - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Eye contact - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Eye contact - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Eye contact - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Eye contact - Level 2, Step 1",
+            "PLACEHOLDER: Eye contact - Level 2, Step 2",
+            "PLACEHOLDER: Eye contact - Level 2, Step 3",
+            "PLACEHOLDER: Eye contact - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Eye contact - Level 2, common mistake 1",
+            "PLACEHOLDER: Eye contact - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Eye contact - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Eye contact - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Eye contact - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Eye contact - Level 3, Step 1",
+            "PLACEHOLDER: Eye contact - Level 3, Step 2",
+            "PLACEHOLDER: Eye contact - Level 3, Step 3",
+            "PLACEHOLDER: Eye contact - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Eye contact - Level 3, common mistake 1",
+            "PLACEHOLDER: Eye contact - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Eye contact - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Eye contact - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "hand-target",
+      "name": "Hand target (touch)",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Hand target (touch).",
+      "goalIds": [
+        "foundations",
+        "recall"
+      ],
+      "prerequisites": [],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Hand target (touch) - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Hand target (touch) - Level 1, Step 1",
+            "PLACEHOLDER: Hand target (touch) - Level 1, Step 2",
+            "PLACEHOLDER: Hand target (touch) - Level 1, Step 3",
+            "PLACEHOLDER: Hand target (touch) - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Hand target (touch) - Level 1, common mistake 1",
+            "PLACEHOLDER: Hand target (touch) - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Hand target (touch) - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Hand target (touch) - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Hand target (touch) - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Hand target (touch) - Level 2, Step 1",
+            "PLACEHOLDER: Hand target (touch) - Level 2, Step 2",
+            "PLACEHOLDER: Hand target (touch) - Level 2, Step 3",
+            "PLACEHOLDER: Hand target (touch) - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Hand target (touch) - Level 2, common mistake 1",
+            "PLACEHOLDER: Hand target (touch) - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Hand target (touch) - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Hand target (touch) - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Hand target (touch) - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Hand target (touch) - Level 3, Step 1",
+            "PLACEHOLDER: Hand target (touch) - Level 3, Step 2",
+            "PLACEHOLDER: Hand target (touch) - Level 3, Step 3",
+            "PLACEHOLDER: Hand target (touch) - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Hand target (touch) - Level 3, common mistake 1",
+            "PLACEHOLDER: Hand target (touch) - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Hand target (touch) - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Hand target (touch) - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sit",
+      "name": "Sit",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Sit.",
+      "goalIds": [
+        "foundations",
+        "sit-stay",
+        "jumping"
+      ],
+      "prerequisites": [],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Sit - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Sit - Level 1, Step 1",
+            "PLACEHOLDER: Sit - Level 1, Step 2",
+            "PLACEHOLDER: Sit - Level 1, Step 3",
+            "PLACEHOLDER: Sit - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Sit - Level 1, common mistake 1",
+            "PLACEHOLDER: Sit - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Sit - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Sit - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Sit - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Sit - Level 2, Step 1",
+            "PLACEHOLDER: Sit - Level 2, Step 2",
+            "PLACEHOLDER: Sit - Level 2, Step 3",
+            "PLACEHOLDER: Sit - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Sit - Level 2, common mistake 1",
+            "PLACEHOLDER: Sit - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Sit - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Sit - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Sit - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Sit - Level 3, Step 1",
+            "PLACEHOLDER: Sit - Level 3, Step 2",
+            "PLACEHOLDER: Sit - Level 3, Step 3",
+            "PLACEHOLDER: Sit - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Sit - Level 3, common mistake 1",
+            "PLACEHOLDER: Sit - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Sit - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Sit - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "down",
+      "name": "Down",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Down.",
+      "goalIds": [
+        "foundations",
+        "sit-stay"
+      ],
+      "prerequisites": [
+        "sit"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Down - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Down - Level 1, Step 1",
+            "PLACEHOLDER: Down - Level 1, Step 2",
+            "PLACEHOLDER: Down - Level 1, Step 3",
+            "PLACEHOLDER: Down - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Down - Level 1, common mistake 1",
+            "PLACEHOLDER: Down - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Down - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Down - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Down - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Down - Level 2, Step 1",
+            "PLACEHOLDER: Down - Level 2, Step 2",
+            "PLACEHOLDER: Down - Level 2, Step 3",
+            "PLACEHOLDER: Down - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Down - Level 2, common mistake 1",
+            "PLACEHOLDER: Down - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Down - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Down - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Down - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Down - Level 3, Step 1",
+            "PLACEHOLDER: Down - Level 3, Step 2",
+            "PLACEHOLDER: Down - Level 3, Step 3",
+            "PLACEHOLDER: Down - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Down - Level 3, common mistake 1",
+            "PLACEHOLDER: Down - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Down - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Down - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "stay",
+      "name": "Stay",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Stay.",
+      "goalIds": [
+        "sit-stay"
+      ],
+      "prerequisites": [
+        "sit"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Stay - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Stay - Level 1, Step 1",
+            "PLACEHOLDER: Stay - Level 1, Step 2",
+            "PLACEHOLDER: Stay - Level 1, Step 3",
+            "PLACEHOLDER: Stay - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Stay - Level 1, common mistake 1",
+            "PLACEHOLDER: Stay - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Stay - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Stay - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Stay - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Stay - Level 2, Step 1",
+            "PLACEHOLDER: Stay - Level 2, Step 2",
+            "PLACEHOLDER: Stay - Level 2, Step 3",
+            "PLACEHOLDER: Stay - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Stay - Level 2, common mistake 1",
+            "PLACEHOLDER: Stay - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Stay - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Stay - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Stay - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Stay - Level 3, Step 1",
+            "PLACEHOLDER: Stay - Level 3, Step 2",
+            "PLACEHOLDER: Stay - Level 3, Step 3",
+            "PLACEHOLDER: Stay - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Stay - Level 3, common mistake 1",
+            "PLACEHOLDER: Stay - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Stay - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Stay - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "come",
+      "name": "Come (recall)",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Come (recall).",
+      "goalIds": [
+        "recall"
+      ],
+      "prerequisites": [
+        "name-response"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Come (recall) - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Come (recall) - Level 1, Step 1",
+            "PLACEHOLDER: Come (recall) - Level 1, Step 2",
+            "PLACEHOLDER: Come (recall) - Level 1, Step 3",
+            "PLACEHOLDER: Come (recall) - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Come (recall) - Level 1, common mistake 1",
+            "PLACEHOLDER: Come (recall) - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Come (recall) - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Come (recall) - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Come (recall) - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Come (recall) - Level 2, Step 1",
+            "PLACEHOLDER: Come (recall) - Level 2, Step 2",
+            "PLACEHOLDER: Come (recall) - Level 2, Step 3",
+            "PLACEHOLDER: Come (recall) - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Come (recall) - Level 2, common mistake 1",
+            "PLACEHOLDER: Come (recall) - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Come (recall) - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Come (recall) - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Come (recall) - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Come (recall) - Level 3, Step 1",
+            "PLACEHOLDER: Come (recall) - Level 3, Step 2",
+            "PLACEHOLDER: Come (recall) - Level 3, Step 3",
+            "PLACEHOLDER: Come (recall) - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Come (recall) - Level 3, common mistake 1",
+            "PLACEHOLDER: Come (recall) - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Come (recall) - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Come (recall) - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "loose-leash",
+      "name": "Loose-leash walking",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Loose-leash walking.",
+      "goalIds": [
+        "loose-leash"
+      ],
+      "prerequisites": [
+        "eye-contact"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Loose-leash walking - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Loose-leash walking - Level 1, Step 1",
+            "PLACEHOLDER: Loose-leash walking - Level 1, Step 2",
+            "PLACEHOLDER: Loose-leash walking - Level 1, Step 3",
+            "PLACEHOLDER: Loose-leash walking - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Loose-leash walking - Level 1, common mistake 1",
+            "PLACEHOLDER: Loose-leash walking - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Loose-leash walking - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Loose-leash walking - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Loose-leash walking - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Loose-leash walking - Level 2, Step 1",
+            "PLACEHOLDER: Loose-leash walking - Level 2, Step 2",
+            "PLACEHOLDER: Loose-leash walking - Level 2, Step 3",
+            "PLACEHOLDER: Loose-leash walking - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Loose-leash walking - Level 2, common mistake 1",
+            "PLACEHOLDER: Loose-leash walking - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Loose-leash walking - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Loose-leash walking - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Loose-leash walking - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Loose-leash walking - Level 3, Step 1",
+            "PLACEHOLDER: Loose-leash walking - Level 3, Step 2",
+            "PLACEHOLDER: Loose-leash walking - Level 3, Step 3",
+            "PLACEHOLDER: Loose-leash walking - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Loose-leash walking - Level 3, common mistake 1",
+            "PLACEHOLDER: Loose-leash walking - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Loose-leash walking - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Loose-leash walking - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "heel",
+      "name": "Heel",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Heel.",
+      "goalIds": [
+        "loose-leash"
+      ],
+      "prerequisites": [
+        "loose-leash"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Heel - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Heel - Level 1, Step 1",
+            "PLACEHOLDER: Heel - Level 1, Step 2",
+            "PLACEHOLDER: Heel - Level 1, Step 3",
+            "PLACEHOLDER: Heel - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Heel - Level 1, common mistake 1",
+            "PLACEHOLDER: Heel - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Heel - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Heel - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Heel - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Heel - Level 2, Step 1",
+            "PLACEHOLDER: Heel - Level 2, Step 2",
+            "PLACEHOLDER: Heel - Level 2, Step 3",
+            "PLACEHOLDER: Heel - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Heel - Level 2, common mistake 1",
+            "PLACEHOLDER: Heel - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Heel - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Heel - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Heel - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Heel - Level 3, Step 1",
+            "PLACEHOLDER: Heel - Level 3, Step 2",
+            "PLACEHOLDER: Heel - Level 3, Step 3",
+            "PLACEHOLDER: Heel - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Heel - Level 3, common mistake 1",
+            "PLACEHOLDER: Heel - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Heel - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Heel - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "leave-it",
+      "name": "Leave it",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Leave it.",
+      "goalIds": [
+        "loose-leash",
+        "leave-it"
+      ],
+      "prerequisites": [],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Leave it - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Leave it - Level 1, Step 1",
+            "PLACEHOLDER: Leave it - Level 1, Step 2",
+            "PLACEHOLDER: Leave it - Level 1, Step 3",
+            "PLACEHOLDER: Leave it - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Leave it - Level 1, common mistake 1",
+            "PLACEHOLDER: Leave it - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Leave it - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Leave it - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Leave it - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Leave it - Level 2, Step 1",
+            "PLACEHOLDER: Leave it - Level 2, Step 2",
+            "PLACEHOLDER: Leave it - Level 2, Step 3",
+            "PLACEHOLDER: Leave it - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Leave it - Level 2, common mistake 1",
+            "PLACEHOLDER: Leave it - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Leave it - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Leave it - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Leave it - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Leave it - Level 3, Step 1",
+            "PLACEHOLDER: Leave it - Level 3, Step 2",
+            "PLACEHOLDER: Leave it - Level 3, Step 3",
+            "PLACEHOLDER: Leave it - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Leave it - Level 3, common mistake 1",
+            "PLACEHOLDER: Leave it - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Leave it - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Leave it - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "drop-it",
+      "name": "Drop it",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Drop it.",
+      "goalIds": [
+        "leave-it"
+      ],
+      "prerequisites": [],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Drop it - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Drop it - Level 1, Step 1",
+            "PLACEHOLDER: Drop it - Level 1, Step 2",
+            "PLACEHOLDER: Drop it - Level 1, Step 3",
+            "PLACEHOLDER: Drop it - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Drop it - Level 1, common mistake 1",
+            "PLACEHOLDER: Drop it - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Drop it - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Drop it - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Drop it - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Drop it - Level 2, Step 1",
+            "PLACEHOLDER: Drop it - Level 2, Step 2",
+            "PLACEHOLDER: Drop it - Level 2, Step 3",
+            "PLACEHOLDER: Drop it - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Drop it - Level 2, common mistake 1",
+            "PLACEHOLDER: Drop it - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Drop it - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Drop it - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Drop it - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Drop it - Level 3, Step 1",
+            "PLACEHOLDER: Drop it - Level 3, Step 2",
+            "PLACEHOLDER: Drop it - Level 3, Step 3",
+            "PLACEHOLDER: Drop it - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Drop it - Level 3, common mistake 1",
+            "PLACEHOLDER: Drop it - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Drop it - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Drop it - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "wait-door",
+      "name": "Wait at doors",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Wait at doors.",
+      "goalIds": [
+        "sit-stay"
+      ],
+      "prerequisites": [
+        "sit"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Wait at doors - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Wait at doors - Level 1, Step 1",
+            "PLACEHOLDER: Wait at doors - Level 1, Step 2",
+            "PLACEHOLDER: Wait at doors - Level 1, Step 3",
+            "PLACEHOLDER: Wait at doors - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Wait at doors - Level 1, common mistake 1",
+            "PLACEHOLDER: Wait at doors - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Wait at doors - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Wait at doors - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Wait at doors - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Wait at doors - Level 2, Step 1",
+            "PLACEHOLDER: Wait at doors - Level 2, Step 2",
+            "PLACEHOLDER: Wait at doors - Level 2, Step 3",
+            "PLACEHOLDER: Wait at doors - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Wait at doors - Level 2, common mistake 1",
+            "PLACEHOLDER: Wait at doors - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Wait at doors - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Wait at doors - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Wait at doors - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Wait at doors - Level 3, Step 1",
+            "PLACEHOLDER: Wait at doors - Level 3, Step 2",
+            "PLACEHOLDER: Wait at doors - Level 3, Step 3",
+            "PLACEHOLDER: Wait at doors - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Wait at doors - Level 3, common mistake 1",
+            "PLACEHOLDER: Wait at doors - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Wait at doors - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Wait at doors - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "name": "Go to place",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Go to place.",
+      "goalIds": [
+        "sit-stay",
+        "calm"
+      ],
+      "prerequisites": [
+        "down"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Go to place - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Go to place - Level 1, Step 1",
+            "PLACEHOLDER: Go to place - Level 1, Step 2",
+            "PLACEHOLDER: Go to place - Level 1, Step 3",
+            "PLACEHOLDER: Go to place - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Go to place - Level 1, common mistake 1",
+            "PLACEHOLDER: Go to place - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Go to place - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Go to place - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Go to place - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Go to place - Level 2, Step 1",
+            "PLACEHOLDER: Go to place - Level 2, Step 2",
+            "PLACEHOLDER: Go to place - Level 2, Step 3",
+            "PLACEHOLDER: Go to place - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Go to place - Level 2, common mistake 1",
+            "PLACEHOLDER: Go to place - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Go to place - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Go to place - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Go to place - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Go to place - Level 3, Step 1",
+            "PLACEHOLDER: Go to place - Level 3, Step 2",
+            "PLACEHOLDER: Go to place - Level 3, Step 3",
+            "PLACEHOLDER: Go to place - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Go to place - Level 3, common mistake 1",
+            "PLACEHOLDER: Go to place - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Go to place - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Go to place - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "crate-intro",
+      "name": "Crate comfort",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Crate comfort.",
+      "goalIds": [
+        "crate"
+      ],
+      "prerequisites": [],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Crate comfort - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Crate comfort - Level 1, Step 1",
+            "PLACEHOLDER: Crate comfort - Level 1, Step 2",
+            "PLACEHOLDER: Crate comfort - Level 1, Step 3",
+            "PLACEHOLDER: Crate comfort - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Crate comfort - Level 1, common mistake 1",
+            "PLACEHOLDER: Crate comfort - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Crate comfort - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Crate comfort - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Crate comfort - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Crate comfort - Level 2, Step 1",
+            "PLACEHOLDER: Crate comfort - Level 2, Step 2",
+            "PLACEHOLDER: Crate comfort - Level 2, Step 3",
+            "PLACEHOLDER: Crate comfort - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Crate comfort - Level 2, common mistake 1",
+            "PLACEHOLDER: Crate comfort - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Crate comfort - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Crate comfort - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Crate comfort - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Crate comfort - Level 3, Step 1",
+            "PLACEHOLDER: Crate comfort - Level 3, Step 2",
+            "PLACEHOLDER: Crate comfort - Level 3, Step 3",
+            "PLACEHOLDER: Crate comfort - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Crate comfort - Level 3, common mistake 1",
+            "PLACEHOLDER: Crate comfort - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Crate comfort - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Crate comfort - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "settle",
+      "name": "Settle",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Settle.",
+      "goalIds": [
+        "crate",
+        "calm"
+      ],
+      "prerequisites": [
+        "down"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Settle - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Settle - Level 1, Step 1",
+            "PLACEHOLDER: Settle - Level 1, Step 2",
+            "PLACEHOLDER: Settle - Level 1, Step 3",
+            "PLACEHOLDER: Settle - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Settle - Level 1, common mistake 1",
+            "PLACEHOLDER: Settle - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Settle - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Settle - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Settle - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Settle - Level 2, Step 1",
+            "PLACEHOLDER: Settle - Level 2, Step 2",
+            "PLACEHOLDER: Settle - Level 2, Step 3",
+            "PLACEHOLDER: Settle - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Settle - Level 2, common mistake 1",
+            "PLACEHOLDER: Settle - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Settle - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Settle - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Settle - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Settle - Level 3, Step 1",
+            "PLACEHOLDER: Settle - Level 3, Step 2",
+            "PLACEHOLDER: Settle - Level 3, Step 3",
+            "PLACEHOLDER: Settle - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Settle - Level 3, common mistake 1",
+            "PLACEHOLDER: Settle - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Settle - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Settle - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "potty-routine",
+      "name": "Potty routine",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Potty routine.",
+      "goalIds": [
+        "potty"
+      ],
+      "prerequisites": [],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Potty routine - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Potty routine - Level 1, Step 1",
+            "PLACEHOLDER: Potty routine - Level 1, Step 2",
+            "PLACEHOLDER: Potty routine - Level 1, Step 3",
+            "PLACEHOLDER: Potty routine - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Potty routine - Level 1, common mistake 1",
+            "PLACEHOLDER: Potty routine - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Potty routine - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Potty routine - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Potty routine - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Potty routine - Level 2, Step 1",
+            "PLACEHOLDER: Potty routine - Level 2, Step 2",
+            "PLACEHOLDER: Potty routine - Level 2, Step 3",
+            "PLACEHOLDER: Potty routine - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Potty routine - Level 2, common mistake 1",
+            "PLACEHOLDER: Potty routine - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Potty routine - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Potty routine - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Potty routine - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Potty routine - Level 3, Step 1",
+            "PLACEHOLDER: Potty routine - Level 3, Step 2",
+            "PLACEHOLDER: Potty routine - Level 3, Step 3",
+            "PLACEHOLDER: Potty routine - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Potty routine - Level 3, common mistake 1",
+            "PLACEHOLDER: Potty routine - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Potty routine - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Potty routine - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "four-on-floor",
+      "name": "Four on the floor",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Four on the floor.",
+      "goalIds": [
+        "jumping"
+      ],
+      "prerequisites": [
+        "sit"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Four on the floor - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Four on the floor - Level 1, Step 1",
+            "PLACEHOLDER: Four on the floor - Level 1, Step 2",
+            "PLACEHOLDER: Four on the floor - Level 1, Step 3",
+            "PLACEHOLDER: Four on the floor - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Four on the floor - Level 1, common mistake 1",
+            "PLACEHOLDER: Four on the floor - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Four on the floor - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Four on the floor - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Four on the floor - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Four on the floor - Level 2, Step 1",
+            "PLACEHOLDER: Four on the floor - Level 2, Step 2",
+            "PLACEHOLDER: Four on the floor - Level 2, Step 3",
+            "PLACEHOLDER: Four on the floor - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Four on the floor - Level 2, common mistake 1",
+            "PLACEHOLDER: Four on the floor - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Four on the floor - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Four on the floor - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Four on the floor - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Four on the floor - Level 3, Step 1",
+            "PLACEHOLDER: Four on the floor - Level 3, Step 2",
+            "PLACEHOLDER: Four on the floor - Level 3, Step 3",
+            "PLACEHOLDER: Four on the floor - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Four on the floor - Level 3, common mistake 1",
+            "PLACEHOLDER: Four on the floor - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Four on the floor - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Four on the floor - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "polite-greeting",
+      "name": "Polite greetings",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Polite greetings.",
+      "goalIds": [
+        "jumping"
+      ],
+      "prerequisites": [
+        "four-on-floor"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Polite greetings - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Polite greetings - Level 1, Step 1",
+            "PLACEHOLDER: Polite greetings - Level 1, Step 2",
+            "PLACEHOLDER: Polite greetings - Level 1, Step 3",
+            "PLACEHOLDER: Polite greetings - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Polite greetings - Level 1, common mistake 1",
+            "PLACEHOLDER: Polite greetings - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Polite greetings - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Polite greetings - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Polite greetings - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Polite greetings - Level 2, Step 1",
+            "PLACEHOLDER: Polite greetings - Level 2, Step 2",
+            "PLACEHOLDER: Polite greetings - Level 2, Step 3",
+            "PLACEHOLDER: Polite greetings - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Polite greetings - Level 2, common mistake 1",
+            "PLACEHOLDER: Polite greetings - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Polite greetings - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Polite greetings - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Polite greetings - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Polite greetings - Level 3, Step 1",
+            "PLACEHOLDER: Polite greetings - Level 3, Step 2",
+            "PLACEHOLDER: Polite greetings - Level 3, Step 3",
+            "PLACEHOLDER: Polite greetings - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Polite greetings - Level 3, common mistake 1",
+            "PLACEHOLDER: Polite greetings - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Polite greetings - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Polite greetings - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "handling",
+      "name": "Handling & grooming comfort",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Handling & grooming comfort.",
+      "goalIds": [
+        "calm"
+      ],
+      "prerequisites": [],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Handling & grooming comfort - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Handling & grooming comfort - Level 1, Step 1",
+            "PLACEHOLDER: Handling & grooming comfort - Level 1, Step 2",
+            "PLACEHOLDER: Handling & grooming comfort - Level 1, Step 3",
+            "PLACEHOLDER: Handling & grooming comfort - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Handling & grooming comfort - Level 1, common mistake 1",
+            "PLACEHOLDER: Handling & grooming comfort - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Handling & grooming comfort - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Handling & grooming comfort - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Handling & grooming comfort - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Handling & grooming comfort - Level 2, Step 1",
+            "PLACEHOLDER: Handling & grooming comfort - Level 2, Step 2",
+            "PLACEHOLDER: Handling & grooming comfort - Level 2, Step 3",
+            "PLACEHOLDER: Handling & grooming comfort - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Handling & grooming comfort - Level 2, common mistake 1",
+            "PLACEHOLDER: Handling & grooming comfort - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Handling & grooming comfort - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Handling & grooming comfort - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Handling & grooming comfort - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Handling & grooming comfort - Level 3, Step 1",
+            "PLACEHOLDER: Handling & grooming comfort - Level 3, Step 2",
+            "PLACEHOLDER: Handling & grooming comfort - Level 3, Step 3",
+            "PLACEHOLDER: Handling & grooming comfort - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Handling & grooming comfort - Level 3, common mistake 1",
+            "PLACEHOLDER: Handling & grooming comfort - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Handling & grooming comfort - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Handling & grooming comfort - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "quiet",
+      "name": "Quiet",
+      "placeholder": true,
+      "summary": "PLACEHOLDER: one-sentence summary of Quiet.",
+      "goalIds": [
+        "calm"
+      ],
+      "prerequisites": [
+        "settle"
+      ],
+      "minutesPerSession": 4,
+      "levels": [
+        {
+          "level": 1,
+          "title": "PLACEHOLDER: Quiet - Level 1 title",
+          "repsPerSession": 10,
+          "steps": [
+            "PLACEHOLDER: Quiet - Level 1, Step 1",
+            "PLACEHOLDER: Quiet - Level 1, Step 2",
+            "PLACEHOLDER: Quiet - Level 1, Step 3",
+            "PLACEHOLDER: Quiet - Level 1, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Quiet - Level 1, common mistake 1",
+            "PLACEHOLDER: Quiet - Level 1, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Quiet - Level 1, troubleshooting tip 1",
+            "PLACEHOLDER: Quiet - Level 1, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 2,
+          "title": "PLACEHOLDER: Quiet - Level 2 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Quiet - Level 2, Step 1",
+            "PLACEHOLDER: Quiet - Level 2, Step 2",
+            "PLACEHOLDER: Quiet - Level 2, Step 3",
+            "PLACEHOLDER: Quiet - Level 2, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Quiet - Level 2, common mistake 1",
+            "PLACEHOLDER: Quiet - Level 2, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Quiet - Level 2, troubleshooting tip 1",
+            "PLACEHOLDER: Quiet - Level 2, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        },
+        {
+          "level": 3,
+          "title": "PLACEHOLDER: Quiet - Level 3 title",
+          "repsPerSession": 8,
+          "steps": [
+            "PLACEHOLDER: Quiet - Level 3, Step 1",
+            "PLACEHOLDER: Quiet - Level 3, Step 2",
+            "PLACEHOLDER: Quiet - Level 3, Step 3",
+            "PLACEHOLDER: Quiet - Level 3, Step 4"
+          ],
+          "mistakes": [
+            "PLACEHOLDER: Quiet - Level 3, common mistake 1",
+            "PLACEHOLDER: Quiet - Level 3, common mistake 2"
+          ],
+          "tips": [
+            "PLACEHOLDER: Quiet - Level 3, troubleshooting tip 1",
+            "PLACEHOLDER: Quiet - Level 3, troubleshooting tip 2"
+          ],
+          "levelUp": {
+            "minReps": 10,
+            "successRate": 0.8,
+            "minSessions": 2
+          }
+        }
+      ]
+    }
+  ]
+}
