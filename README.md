@@ -34,7 +34,7 @@ training-content schema.
 | Real training content | Not started |
 | App name, icon, splash | Not started (Expo defaults) |
 | Dev build / on-device testing | Not started |
-| Git | Initial commit only; MVP work is uncommitted |
+| Git | Committed and pushed to `seacoastcreates/sit-happens` (private) |
 
 ## Run
 
@@ -87,19 +87,17 @@ src/theme/        light/dark palette, spacing
 
 ## Next steps
 
-1. **Review and commit the MVP.** Everything since the initial commit is
-   uncommitted, left for review.
-2. **Write real training content.** Replace every `PLACEHOLDER:` in
+1. **Write real training content.** Replace every `PLACEHOLDER:` in
    `src/content/skills.json` and `goals.json` with reviewed, positive-reinforcement
    instructions and set `"placeholder": false` per skill. Release check:
    `grep -c PLACEHOLDER src/content/skills.json` must be 0 (currently 560).
    Consider having a certified trainer write or review it.
-3. **Name and brand.** Final app name, icon, splash screen and accent color.
+2. **Name and brand.** Final app name, icon, splash screen and accent color.
    `app.json` still has Expo's default name, icon and splash.
-4. **Device testing.** Make a dev build (`eas build --profile development` or
+3. **Device testing.** Make a dev build (`eas build --profile development` or
    `npx expo run:ios`) and test on a real iPhone: haptics, notifications, photo
    picker, one-handed use outdoors with treats in the other hand.
-5. **App Store prep.** Bundle identifier, privacy policy (data stays on device),
+4. **App Store prep.** Bundle identifier, privacy policy (data stays on device),
    screenshots, TestFlight.
 
 ### v1.1 (designed for, not built)
