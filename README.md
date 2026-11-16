@@ -34,7 +34,7 @@ training-content schema.
 | Real training content | Not started |
 | App name, icon, splash | Not started (Expo defaults) |
 | Dev build / on-device testing | Not started |
-| Git | Committed and pushed to `seacoastcreates/sit-happens` (private) |
+| Git | Committed and pushed to `seacoastcreates/sit-happens` (public) |
 
 ## Run
 
